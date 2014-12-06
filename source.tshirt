@@ -1,0 +1,8 @@
+html
+	head
+	title
+	body
+		header
+			a[href="#"]{Click here}
+		div#container
+			div.box
