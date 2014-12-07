@@ -1,13 +1,14 @@
 html {
 	body {
 		header {
-			a[href="#"] "Click here"
-			a.later
+			a[href="#"] "Click here";
+			a.later;
 		}
 		div#container {
-			div.box
-			div.box2
-			div.box3
+			div.box;
+			div.box2;
+			div.box3;
+			span[href="text"]
 		}
 	}
 }
