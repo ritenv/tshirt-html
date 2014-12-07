@@ -1,8 +1,13 @@
-html
-	head
-	title
-	body
-		header
-			a[href="#"]{Click here}
-		div#container
+html {
+	body {
+		header {
+			a[href="#"] "Click here"
+			a.later
+		}
+		div#container {
 			div.box
+			div.box2
+			div.box3
+		}
+	}
+}
