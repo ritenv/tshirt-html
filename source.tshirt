@@ -1,10 +1,15 @@
 html {
     body {
-        header {
-            a[href="#"] "Click here";
-            a.later;
+        header#main {
+            div.insideHeader {
+                div.mainMenu {
+                    ul {
+                        li
+                    }
+                }
+            }
         }
-        divcontainer {
+        div.container {
             div.box;
             div.box2;
             div.box3;
