@@ -4,7 +4,7 @@ html {
             a[href="#"] "Click here";
             a.later;
         }
-        div#container {
+        divcontainer {
             div.box;
             div.box2;
             div.box3;
