@@ -1,7 +1,7 @@
 html {
     body {
         header#main {
-            div.insideHeader {
+            div.insideHeader[class="red-bg float-left"][ng-click="placeOrder()"] {
                 div.mainMenu {
                     ul {
                         li
