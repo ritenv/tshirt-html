@@ -4,7 +4,7 @@ html {
             div.insideHeader[class="red-bg float-left"][ng-click="placeOrder()"] {
                 div.mainMenu {
                     ul {
-                        li
+                        li;
                     }
                 }
             }
@@ -13,7 +13,7 @@ html {
             div.box;
             div.box2;
             div.box3;
-            span[href="text"]
+            span[href="text"];
         }
     }
 }
